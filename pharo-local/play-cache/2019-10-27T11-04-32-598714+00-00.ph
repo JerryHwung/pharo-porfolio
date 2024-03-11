@@ -1,0 +1,1 @@
+acc := SavingsAccount new.acc credit: 1.Transcript clear show: (acc yearsUntil: 100).

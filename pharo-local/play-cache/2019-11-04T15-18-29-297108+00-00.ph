@@ -1,0 +1,1 @@
+acc := SavingsAccount new.acc credit: 99.acc debit: 100.Transcript clear show: acc checkBalance.

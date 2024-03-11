@@ -1,0 +1,1 @@
+acc := SavingsAccount new credit: 253.Transcript clear show: (acc balanceAfter: 10).
